@@ -1,9 +1,2 @@
-Regamebox can be used with various hardware.
-
-Please copy the according files on your USB Stick. 
-
-Hardware used
-- pi2scart - use copy_to_usb_pi2scart
-- pi2jamma - use copy_to_usb_pijamma
-- hdmi - use copy_to_usb_highres_hdmi
+Regamebox can be used with pi2scart or pi2jamma hardware
 
